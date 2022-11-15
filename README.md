@@ -7,7 +7,7 @@
 
 
 ```shell
-$ npm i paien/probabilitygacha
+$ npm i pai-en/probabilitygacha
 ```
 
 ### Usage
